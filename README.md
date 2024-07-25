@@ -1,5 +1,11 @@
 # Prediction-Using-Supervised-ML
-Task 1 of MY Data Science and Business Analytics internship at The Spark Foundation.
-In this task i have used supervised ML to pridict the percentage score of a student based on the number of hours he/she studied.
-This task has two variables where the feature is the no. of hours studied and the target value is the percentage score. 
-In this task we have used simple linear regression to achieve our goal.
+In this Project i Developed a supervised machine learning model to predict student marks
+based on study hours. And also predicted the score of a student who studies for 9.25
+hours. In this Project I have used Simple regression to achieve our goal and also
+used important libraries like NumPy, Pandas for reading and describing data. Used
+Matplotlib & Seaborn to plot regression that gives a better and clear
+visualization for such data. Also used train_test_split function from scikit-learn to 
+split a dataset into two subsets: one for training a machine learning model and the 
+other for testing its performance. 
+ With Train accuracy: 0.9484509249326872 and Test accuracy: 0.93676610433650
+In this Project I have used simple linear regression to achieve our goal.
