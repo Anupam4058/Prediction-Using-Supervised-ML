@@ -8,4 +8,4 @@ visualization for such data. Also used train_test_split function from scikit-lea
 split a dataset into two subsets: one for training a machine learning model and the 
 other for testing its performance. 
  With Train accuracy: 0.9484509249326872 and Test accuracy: 0.93676610433650
-In this Project I have used simple linear regression to achieve our goal.
+
